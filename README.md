@@ -44,5 +44,6 @@ Key dashboard sections:
 - Attrition by Years at Company
 - Attrition by Overtime
 - Attrition by Gender
-<img width="809" height="987" alt="image" src="https://github.com/user-attachments/assets/a7b38a2f-41e1-4792-98ce-4a5cd2f5386b" />
+<img width="764" height="1078" alt="image" src="https://github.com/user-attachments/assets/f77f7e79-7e15-405f-8bf7-c21a4afa491f" />
+
 
