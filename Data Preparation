@@ -1,0 +1,44 @@
+### Data Cleaning
+- Checked dataset structure and data types
+- Identified missing values
+- Checked duplicate records
+- Removed irrelevant columns with constant values
+- Standardized data formats
+
+### Feature Engineering
+New analytical features were created:
+
+- Attrition Flag
+  - Yes = 1
+  - No = 0
+
+- CategoryAge
+  - <25
+  - 25-34
+  - 35-44
+  - 45-54
+  - 55+
+
+- CategoryMonthlyIncome
+  - Low
+  - Lower Middle
+  - Upper Middle
+  - High
+
+- CategoryYearsatCompany
+  - <2 Years
+  - 2-5 Years
+  - 6-10 Years
+  - 10+ Years
+
+- CategoryJobSatisfaction
+  - Low
+  - Medium
+  - High
+  - Very High
+
+-CategoryDistance
+  - 0-5 km
+  - 6-10 km
+  - 11-20 km
+  - 20+ km
